@@ -24,4 +24,6 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 I added a few CSS elements to the page as well so that I could get used to using CSS.
     
 
+Click link to view page.
 
+<a href="https://rroman6292.github.io/Responsive_Portfolio/"></a>
