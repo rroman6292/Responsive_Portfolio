@@ -36,5 +36,14 @@ body {
     
 }
 
+.profile-pic {
+    height: 180px;
+    width: 175px;
+}
+
+p {
+    font-size: 18px;
+}
+
 
 
