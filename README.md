@@ -22,8 +22,6 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 * Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
 
 I added a few CSS elements to the page as well so that I could get used to using CSS.
+    
 
-<p align="center">
-    <img src="./assets/images/screenshot.jpeg>
-</p>
 
