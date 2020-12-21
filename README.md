@@ -26,4 +26,4 @@ I added a few CSS elements to the page as well so that I could get used to using
 
 Click link to view page.
 
-<a href="https://rroman6292.github.io/Responsive_Portfolio/"></a>
+[Click Link] (https://rroman6292.github.io/Responsive_Portfolio/)
