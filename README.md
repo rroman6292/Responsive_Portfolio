@@ -1,27 +1,15 @@
 # Responsive_Portfolio
 
-Bootstrap Responsive Portfolio---HW #2
+Bootstrap Responsive Portfolio---Update 
 
-This weeks assignment had me creating a responsive website utilizing bootstrap.
-Here are a few of the requirements:
+This weeks assignment had me updating my responsive portfolio with some of the work I have done the past 8 weeks and updating some of my professional websites.
 
-First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
+I have added links to various assignments that I have completed as well as our group project. 
+I have included screenshots and links to the repo's as well.
 
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
+I have linked a resume from my google drive, updated my linkedIn, and updated my GitHub profile.
 
-* Using Bootstrap, develop your portfolio site with the following items:
-
-   * A navbar
-
-   * A responsive layout
-
-   * Responsive images
-
-* The Bootstrap portfolio should minimize the use of media queries.
-
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
-
-I added a few CSS elements to the page as well so that I could get used to using CSS.
+Feel free to check it all out!!!
     
 
 Click link to view page.
