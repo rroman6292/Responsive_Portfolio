@@ -45,5 +45,11 @@ p {
     font-size: 18px;
 }
 
+.screenShot {
+    height: 300px;
+    width: 500px;
+    padding-top: 40px;
+}
+
 
 
